@@ -1,6 +1,6 @@
 const HolderChargeEventHandler = (event) => {
-    var value = event.target.value;
-    var batteryValue = new Uint8Array(value.buffer.slice(-1))[0];
+    let value = event.target.value;
+    let batteryValue = new Uint8Array(value.buffer.slice(-1))[0];
     if (value.buffer.byteLength == 7) {
         return batteryValue;
     } else {
