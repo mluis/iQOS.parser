@@ -1,2 +1,2 @@
 # iQOS.parser
-A parser library for charge status.
+A parser library for holder charge status.

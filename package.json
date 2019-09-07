@@ -1,0 +1,10 @@
+{
+  "name": "@0x77/iqos.parser",
+  "version": "0.0.1",
+  "description": "A parser library for holder charge status.",
+  "main": "index.js",
+  "repository": "git@github.com:iQOShacking/iQOS.parser.git",
+  "author": "Misha Marinenko <0x77dev@protonmail.com>",
+  "license": "GPL-3.0",
+  "private": false
+}
