@@ -3,16 +3,16 @@ A parser library for holder charge status parsing.
 
 ` Tested on iQOS 2.4+ and Chrome 76 `
 
-![iQOS commmunity](https://img.shields.io/badge/iQOS-Hacking%20Community-blue) ![npm](https://img.shields.io/npm/v/@0x77/iqos.parser?color=blue&label=%400x77%2Fiqos.parser&logo=npm) ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/iQOShacking/iQOS.parser) ![GitHub issues](https://img.shields.io/github/issues/iQOShacking/iQOS.parser) [![Edit iQOS.parser demo](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/blissful-lamport-475tt?fontsize=14)
+![iQOS commmunity](https://img.shields.io/badge/iQOS-Hacking%20Community-blue) ![npm](https://img.shields.io/npm/v/@0x77/iqos.parser?color=blue&label=%400x77%2Fiqos.parser&logo=npm) ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/iQOShacking/iQOS.parser) [![GitHub issues](https://img.shields.io/github/issues/iQOShacking/iQOS.parser)](https://github.com/iQOShacking/iQOS.parser/issues/new/choose) [![Edit iQOS.parser demo](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/blissful-lamport-475tt?fontsize=14)
 
 ## Q&A
 ### TODO
 * Add charger support
 * __*Test on iQOS 3.0*__
 * Write connection library
-* etc... (P.S.: purpose your features on issues)
-### Where I can ask the question?
-* Welcome to __*issues*__
+* etc... (P.S.: purpose your features on [issues](https://github.com/iQOShacking/iQOS.parser/issues/new/choose))
+### Where I can ask the question or bug report?
+* Welcome to [__*issues*__](https://github.com/iQOShacking/iQOS.parser/issues/new/choose)
 * [_Telegram_](https://t.me/hex0x77)
 ### What is this?
 * This library contains simple function that *parse the __iQOS holder__ charge status*
